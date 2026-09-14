@@ -1,0 +1,8 @@
+sandbox-init
+*.[oa]
+*.out
+*~
+*.log
+*.json
+vuln.table
+
